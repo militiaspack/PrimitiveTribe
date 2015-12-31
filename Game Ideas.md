@@ -5,22 +5,21 @@ TO-DO
 
 Buildings
 
-fight for resources for each night
+fight for resources such as leather/wood etc
 
-certain amount of resources needed to survive till next day
 
 co-op?
 
-Taming Animals
+Taming Animals to aid you in hunting animals
 
-Options on main menu
+Options on main menu such as sound
 
-Research system
+Research system such as the wheel and fire
 
 Create your cave man/ woman
 
-Workshop?
 
-Big open area/terrian 
 
-Better Art
+Big open area/terrian for village buildings
+
+Better game Art
